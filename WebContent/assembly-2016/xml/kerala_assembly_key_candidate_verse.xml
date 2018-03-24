@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<STATE NAME="Kerala">
+		<VIP ID="" CONSTITUENCY="Dharmadam" CANDIDATE="Pinarayi Vijayan"
+			PARTY="CPI(M)" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Pinarayi-Vijayan.jpg" />
+		<VIP ID="" CONSTITUENCY="Malampuzha" CANDIDATE="VS Achuthananthan"
+			PARTY="CPI(M)" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/VS-Achuthananthan.jpg" />
+		<VIP ID="" CONSTITUENCY="Puthupally" CANDIDATE=" Oommen Chandy"
+			PARTY="INC" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/-Oommen-Chandy.jpg" />
+		<VIP ID="" CONSTITUENCY="Thiruvananthapuram" CANDIDATE="S Sreesanth"
+			PARTY="BJP" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/S-Sreesanth.jpg" />
+		<VIP ID="" CONSTITUENCY="Pathanapuram" CANDIDATE="KB Ganesh Kumar"
+			PARTY="LDF" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/KB-Ganesh-Kumar.jpg" />
+		<VIP ID="" CONSTITUENCY="Kozhikkode North" CANDIDATE="A Pradeep Kumar"
+			PARTY="CPI(M)" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/A-Pradeep-Kumar.jpg" />
+		<VIP ID="" CONSTITUENCY="Kollam" CANDIDATE=" Mukesh" PARTY="LDF"
+			STATUS="NA" IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/-Mukesh.jpg" />
+	</STATE>
+</ROOT>

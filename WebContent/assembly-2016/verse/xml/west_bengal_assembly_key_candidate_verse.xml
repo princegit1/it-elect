@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<STATE NAME="West Bengal">
+		<VIP ID="" CONSTITUENCY="Bhawanipore" CANDIDATE="Mamata Banerjee"
+			PARTY="TMC" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Mamata-Banerjee.jpg" />
+		<VIP ID="" CONSTITUENCY="Kharagpur" CANDIDATE="Surya Kant Mishra"
+			PARTY="CPI(M)" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Surya-Kant-Mishra.jpg" />
+		<VIP ID="" CONSTITUENCY="Bhawanipore" CANDIDATE="Chandra Kumar Bose"
+			PARTY="BJP" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Chandra-Kumar-Bose.jpg" />
+		<VIP ID="" CONSTITUENCY="Howrah North" CANDIDATE="Laxmi Ratan Shukla"
+			PARTY="TMC" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Laxmi-Ratan-Shukla.jpg" />
+		<VIP ID="" CONSTITUENCY="Howrah North" CANDIDATE="Roopa Ganguly"
+			PARTY="BJP" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Roopa-Ganguly.jpg" />
+		<VIP ID="" CONSTITUENCY="Khardaha" CANDIDATE="Amit Mitra" PARTY="TMC"
+			STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Amit-Mitra.jpg" />
+		<VIP ID="" CONSTITUENCY="Bally" CANDIDATE=" Vaishali Dalmiya"
+			PARTY="TMC" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/-Vaishali-Dalmiya.jpg" />
+		<VIP ID="" CONSTITUENCY="Jorasanko" CANDIDATE="Rahul Sinha" PARTY="BJP"
+			STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Rahul-Sinha.jpg" />
+	</STATE>
+</ROOT>

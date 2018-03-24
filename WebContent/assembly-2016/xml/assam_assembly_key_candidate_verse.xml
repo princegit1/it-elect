@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<STATE NAME="Assam">
+		<VIP ID="" CONSTITUENCY="Titabar " CANDIDATE="Tarun Gogoi" PARTY="INC"
+			STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Tarun-Gogoi.jpg" />
+		<VIP ID="" CONSTITUENCY="Majuli" CANDIDATE="Sarbananda Sonowal"
+			PARTY="BJP" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Sarbananda-Sonowal.jpg" />
+		<VIP ID="" CONSTITUENCY="Moran" CANDIDATE=" Pawan Ghatowar" PARTY="INC"
+			STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/-Pawan-Ghatowar.jpg" />
+		<VIP ID="" CONSTITUENCY="South Salmara" CANDIDATE="Badruddin Ajmal"
+			PARTY="AIUDF" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Badruddin-Ajmal.jpg" />
+		<VIP ID="" CONSTITUENCY="Barhampur" CANDIDATE="Prafulla Kumar Mahanta"
+			PARTY="AGP" STATUS="NA"
+			IMAGE="http://media2.intoday.in/indiatoday/assemblypoll/Prafulla-Kumar-Mahanta.jpg" />
+	</STATE>
+</ROOT>

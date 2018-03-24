@@ -1,0 +1,111 @@
+body {
+	font-size: 62.5%;
+}
+
+table {
+	font-size: 1em;
+}
+
+body {
+	font-family: "Trebuchet MS", "Helvetica", "Arial", "Verdana",
+		"sans-serif";
+}
+
+/*bot?n combo*/
+.ui-button {
+	margin-left: -1px;
+}
+
+.ui-button-icon-only .ui-button-text {
+	padding: 0.35em;
+}
+
+.ui-autocomplete-input {
+	margin: 0;
+	padding: 0.48em 0 0.47em 0.45em;
+}
+/*fin combo*/
+#ver-historic {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 9px;
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	margin: 5px 0 0 0px;
+}
+
+#ver-historic th {
+	font-size: 9px;
+	font-weight: normal;
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
+	color: #767676;
+	padding: 1px 1px;
+}
+
+#ver-historic td {
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
+	color: #5c5c5c;
+	padding: 1px 1px;
+}
+
+.vhistoric-odd {
+	background: #ececec;
+}
+
+.vhistoric-even {
+	background: #ececec;
+}
+
+#ver-historic #vhistoric-partit {
+	background: #c2c2c2;
+	border-bottom: 1px solid #cccccc;
+}
+
+#ver-historic #vhistoric-head {
+	font-size: 11px;
+	text-align: center;
+	border-bottom: 1px solid #fff;
+}
+
+#ver-historic #vhistoric-partit2 {
+	background: #c2c2c2;
+	border-bottom: 1px solid #dbdbdb;
+}
+
+.emicicle {
+	width: 220px;
+	height: 220px;
+}
+
+.resultados2007 {
+	font-family: arial;
+	font-size: 14px;
+	font-weight: normal;
+	color: #999;
+}
+
+.partidos2007 {
+	font-family: arial;
+	font-size: 9px;
+	font-weight: normal;
+	color: #898989;
+	text-align: center;
+}
+
+.ediles2007 {
+	font-family: arial;
+	font-size: 9px;
+	font-weight: bold;
+	color: #7D7D7D;
+	text-align: center;
+}
+
+.Porcentaje2007 {
+	font-family: arial;
+	font-size: 9px;
+	font-weight: normal;
+	color: #666;
+	text-align: center;
+}
